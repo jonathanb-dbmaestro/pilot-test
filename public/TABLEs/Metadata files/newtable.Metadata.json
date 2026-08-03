@@ -8,7 +8,7 @@
       "column_order": null,
       "force_rls": false,
       "kind": "r",
-      "name": "newtable2",
+      "name": "newtable",
       "of_type": null,
       "owner": "dbmadmin",
       "persistence": "LOGGED",
